@@ -1,3 +1,3 @@
-# Multimodal physiological and biochemical data measured by CARES platform
+# Multimodal data by CARES platform
 
 in Nature Electronics
